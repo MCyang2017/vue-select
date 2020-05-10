@@ -3,7 +3,7 @@
 > **Everything you wish the HTML `<select>` element could do, wrapped up into a lightweight, zero 
 dependency, extensible Vue component.** 
 
-- Tagging
+- Tagging test
 - Filtering / Searching
 - Vuex Support
 - AJAX Support
